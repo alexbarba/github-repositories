@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Avatar should be match with snapshot 1`] = `
+<DocumentFragment>
+  <figure
+    class=""
+  >
+    <a>
+      <img
+        alt="avatar"
+        class="w-full h-auto rounded-full"
+        height="296"
+        width="296"
+      />
+    </a>
+  </figure>
+</DocumentFragment>
+`;

@@ -1,0 +1,147 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer should be match with snapshot 1`] = `
+<DocumentFragment>
+  <footer
+    class="flex flex-wrap items-center self-end justify-start px-4 py-10 mt-10 text-xs text-center border-t border-accent-br"
+  >
+    <div
+      class="hidden w-1/4 md:block"
+    >
+      <span
+        class="flex items-center justify-center w-full text-footer"
+      >
+        <svg
+          aria-hidden="true"
+          class="mr-2 text-fg-subtle"
+          fill="currentColor"
+          height="24"
+          role="img"
+          style="display: inline-block; user-select: none; vertical-align: text-bottom; overflow: visible;"
+          viewBox="0 0 16 16"
+          width="24"
+        >
+          <path
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"
+            fill-rule="evenodd"
+          />
+        </svg>
+        <span
+          class="leading-[1.125rem] align-middle"
+        >
+          © 2021 GitHub, Inc.
+        </span>
+      </span>
+    </div>
+    <ul
+      class="flex flex-wrap justify-between w-full gap-x-4 md:w-2/3 text-accent-fg"
+    >
+      <li>
+        <a
+          href="https://docs.github.com/en/github/site-policy/github-terms-of-service"
+        >
+          Terms
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://docs.github.com/en/github/site-policy/github-privacy-statement"
+        >
+          Privacy
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://github.com/security"
+        >
+          Security
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://www.githubstatus.com/"
+        >
+          Status
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://docs.github.com"
+        >
+          Docs
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://support.github.com/?tags=dotcom-footer"
+        >
+          Contact GitHub
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://github.com/pricing"
+        >
+          Pricing
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://docs.github.com"
+        >
+          API
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://services.github.com/"
+        >
+          Training
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://github.blog/"
+        >
+          Blog
+        </a>
+      </li>
+      <li>
+        <a
+          href="https://github.com/about"
+        >
+          About
+        </a>
+      </li>
+    </ul>
+    <div
+      class="w-full mt-2 mb-10 md:hidden"
+    >
+      <span
+        class="flex items-center justify-center w-full text-footer"
+      >
+        <svg
+          aria-hidden="true"
+          class="mr-2 text-fg-subtle"
+          fill="currentColor"
+          height="24"
+          role="img"
+          style="display: inline-block; user-select: none; vertical-align: text-bottom; overflow: visible;"
+          viewBox="0 0 16 16"
+          width="24"
+        >
+          <path
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"
+            fill-rule="evenodd"
+          />
+        </svg>
+        <span
+          class="leading-[1.125rem] align-middle"
+        >
+          © 2021 GitHub, Inc.
+        </span>
+      </span>
+    </div>
+  </footer>
+</DocumentFragment>
+`;

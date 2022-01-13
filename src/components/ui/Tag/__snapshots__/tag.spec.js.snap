@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tag should be match with snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="border border-accent-br rounded-xl w-auto px-2 inline-block text-xs "
+  >
+    Javascript
+  </div>
+</DocumentFragment>
+`;

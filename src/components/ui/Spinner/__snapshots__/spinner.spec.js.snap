@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Spinner should be match with snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="flex items-center justify-center w-full h-full"
+  >
+    <div
+      class="border-t-4 border-b-4 border-black rounded-full animate-spin w-32 h-32 dark:border-white "
+    />
+  </div>
+</DocumentFragment>
+`;
