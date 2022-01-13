@@ -1,6 +1,6 @@
 {
   "name": "github-repositories",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "prettier": "prettier-config-standard",
   "dependencies": {
     "@headlessui/react": "^1.4.2",
