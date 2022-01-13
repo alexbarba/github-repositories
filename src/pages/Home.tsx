@@ -24,9 +24,9 @@ const Home: FC = () => {
   const decrementPage = () => setPage((page) => page - 1)
   const options = {
     revalidateOnFocus: false,
-    revalidateOnMount: false,
-    revalidateOnReconnect: false,
-    revalidateIfStale: false
+    revalidateOnMount: true,
+    revalidateOnReconnect: true,
+    revalidateIfStale: true
   } 
   const { data: user, error: userError } = useSWR(
     `/users/${username}`,
